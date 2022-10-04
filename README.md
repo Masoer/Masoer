@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Masoer
 - 👀 I’m interested in D&D and boardgames
-- 🌱 I’m currently learning HTML, CSS and Javascrift 
-- 💞️ I’m looking to collaborate on ... idk
-- 📫 How to reach me ... ask your mum
+- 🌱 I’m currently learning HTML, CSS, Javascrift and React
 
 <!---
 Masoer/Masoer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
